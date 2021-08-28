@@ -1,0 +1,70 @@
+body {
+    width: 100%;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 0;
+}
+h2 {
+    color: crimson;
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 0;
+    padding-top: 10px;
+}
+
+h3 {
+    color: darkblue;
+    font-size: 2rem;
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+    margin-top: 0;
+}
+p {
+    color: brown;
+    font-size: 1.5rem;
+    text-align: justify;
+    font-style: oblique;
+}
+
+a {
+    text-decoration: none;
+}
+
+.logo {
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+}
+
+.main {
+    margin-top: 0;
+    padding: 0 100px;
+    background: rgba(27, 121, 21, 0.452);
+}
+
+.product{
+    width: 275px;
+    margin: 0 auto;
+}
+
+.background {
+    margin-bottom: -5px;
+}
+
+.options {
+    text-align: center;
+    margin-bottom: 15px;
+    font-weight: bolder;
+}
+.options a {
+    margin: 0 30px;
+}
+#title {
+    color: chocolate;
+}
